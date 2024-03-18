@@ -1,0 +1,21 @@
+body {
+    background: yellow;
+}
+
+#imgLogo {
+    display: block;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+nav ul {
+    display: none;
+}
+
+nav ul li a {
+    width: 50%;
+    margin: 5px auto;
+    background: #f0f5f6;
+    text-align: center;
+    display: block;
+}
